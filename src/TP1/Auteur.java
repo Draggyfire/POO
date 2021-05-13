@@ -45,7 +45,7 @@ public class Auteur {
     }
 
     public static void main(String[] args) {
-        Auteur a1 = new Auteur("#001", "bob", "ross", "italien", 33);
+        Auteur a1 = new Auteur("#001", "bob", "ross", "suedoise", 33);
         System.out.println(a1.toString());
     }
 }
